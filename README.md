@@ -7,7 +7,7 @@ supplementary material that were developed as part of the work for the PhD thesi
 		"Trajectory Space Factorisation for Vision-Based Automated Sign Language
 		Recognition", Mark Borg, University of Malta, 2020.
 
-The supplementary report for the above thesis is available here: [supplementary report](https://drive.google.com/open?id=1NUgVn98tGKCQokzE3jDwo4wKFMBiSrhO).
+The supplementary report for the above thesis is available here: [Supplementary report](https://drive.google.com/open?id=1NUgVn98tGKCQokzE3jDwo4wKFMBiSrhO).
 
 
 Material related to Chapter 4, Sign Language Detection:
