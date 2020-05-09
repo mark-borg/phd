@@ -15,7 +15,11 @@ The **supplementary report** accompanying the above thesis is available here: [S
 
 Material related to **Chapter 3, Body Part Tracking**:
 
-Skin detection results can be found here: [skin detection](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
+Skin detection results can be found here: [skin detection results](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
+
+Frame differencing results can be found here: [frame differencing results](https://drive.google.com/open?id=1gF7gN3V-5aJs6wJlvFf5BFaNDqale3yk).
+
+face detection results can be found here: [Viola-Jones results](https://drive.google.com/open?id=13dlfWHnUAw1L3AQCERVvyy02IRoyWfbw), and [MTCNN results](https://drive.google.com/open?id=1rjb7mdpuZL9GAltc1t4_e-Sucw5P6QeD).
 
 
 
