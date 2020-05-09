@@ -13,7 +13,15 @@ The **supplementary report** accompanying the above thesis is available here: [S
 
 --------------
 
-Material related to **Chapter 3, Body Part Tracking**:
+Material related to **Sign Language detection**:
+
+Source code for signing detection is available at: [github.com/mark-borg/sign-language-detection.git](https://github.com/mark-borg/sign-language-detection.git), 
+while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-borg/Signing-in-the-Wild-dataset.git](https://github.com/mark-borg/Signing-in-the-Wild-dataset.git).
+
+
+--------------
+
+Material related to the **body part tracking pipeline**:
 
 Skin detection source code and results can be found here: [skin detection](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
 
@@ -26,16 +34,7 @@ KLT tracking source code and results can be found here: [KLT feature tracking](h
 
 --------------
 
-Material related to **Chapter 4, Sign Language Detection**:
-
-Source code for signing detection is available at: [github.com/mark-borg/sign-language-detection.git](https://github.com/mark-borg/sign-language-detection.git), 
-while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-borg/Signing-in-the-Wild-dataset.git](https://github.com/mark-borg/Signing-in-the-Wild-dataset.git).
-
-
-
---------------
-
-Material related to **Chapter 6, Trajectory Space Factorisation for ASLR**:
+Material related to **Trajectory Space Factorisation analysis**:
 
 Results of applying Structure from Motion on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
 
