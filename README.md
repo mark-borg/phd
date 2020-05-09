@@ -32,7 +32,7 @@ while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-bo
 
 Material related to **Chapter 6, Trajectory Space Factorisation for ASLR**:
 
-Results of applying Structure from Motion on synthetic dataset can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
+Results of applying Structure from Motion on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
 
 
 
