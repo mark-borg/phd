@@ -15,12 +15,13 @@ The **supplementary report** accompanying the above thesis is available here: [S
 
 Material related to **Chapter 3, Body Part Tracking**:
 
-Skin detection source coode and results can be found here: [skin detection results](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
+Skin detection source code and results can be found here: [skin detection](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
 
-Frame differencing source coode and results can be found here: [frame differencing results](https://drive.google.com/open?id=1gF7gN3V-5aJs6wJlvFf5BFaNDqale3yk).
+Frame differencing source code and results can be found here: [frame differencing](https://drive.google.com/open?id=1gF7gN3V-5aJs6wJlvFf5BFaNDqale3yk).
 
-Face detection source coode and results can be found here: [Viola-Jones results](https://drive.google.com/open?id=13dlfWHnUAw1L3AQCERVvyy02IRoyWfbw), and [MTCNN results](https://drive.google.com/open?id=1rjb7mdpuZL9GAltc1t4_e-Sucw5P6QeD).
+Face detection source code and results can be found here: [Viola-Jones face detector](https://drive.google.com/open?id=13dlfWHnUAw1L3AQCERVvyy02IRoyWfbw), and [MTCNN face detector](https://drive.google.com/open?id=1rjb7mdpuZL9GAltc1t4_e-Sucw5P6QeD).
 
+KLT tracking source code and results can be found here: [KLT feature tracking](https://drive.google.com/open?id=1vN-OG0KZ1rh9f8FX_ftiPyAD_JAYYzWX).
 
 
 --------------
