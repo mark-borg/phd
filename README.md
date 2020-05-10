@@ -88,6 +88,9 @@ Material related to **Sign Recognition**:
 
 The lexicon and associated annotation files used in the supervised training of both the HMM-based sign recognition system and the RNN-based system can be found here: [lexicon and associated annotation files](https://drive.google.com/open?id=1DqPHf28c7MBvObsBUP1GzI7YLiNmYjnI). The ELAN annotation tool is needed for the EAF files; this is available here: [ELAN tool](https://archive.mpi.nl/tla/elan).
 
+Results and code related to HMM-based sign recognition are included here: [HMM-based sign recognition](https://drive.google.com/open?id=17e6QSew4eNmvLEm7jOIe-gEwJwhjA5sl).  This component uses the results of the previous components as input, mainly: body-part tracking, trajectory space factorisation, and subunit extraction.
+
+Results and code related to RNN-based sign recognition are included here: [RNN-based sign recognition](https://drive.google.com/open?id=1EfYZcTTl9_0RTtYJ1MUEVclRRz8WwbEs). This component uses the results of the previous components as input, mainly: body-part tracking, trajectory space factorisation, and subunit extraction. The trained RNN model is included as an .h5 file.
 
 
 --------------
