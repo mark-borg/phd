@@ -40,6 +40,13 @@ And groundtruth related to body-part tracking is available [here](https://drive.
 
 --------------
 
+Material related to **Multiple Hypothesis Tracking (MHT) and hand motion constraints**:
+
+The source code for the MHT and hand motion constraints, as well as a sample of results, can be found here: [MHT tracking](https://drive.google.com/open?id=1-FeQk-mjvWiWfjrunPX5HcClN5G7s70T). Also included are the R notebooks used for the experiments and hyperparameter tuning.
+
+
+--------------
+
 Material related to **Trajectory Space Factorisation**:
 
 Results of applying Structure from Motion (SfM) on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
