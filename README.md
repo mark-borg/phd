@@ -31,7 +31,7 @@ Face detection source code and results can be found here: [Viola-Jones face dete
 
 KLT feature tracking source code and results can be found here: [KLT feature tracking](https://drive.google.com/open?id=1vN-OG0KZ1rh9f8FX_ftiPyAD_JAYYzWX).
 
-Source code and experimental results in KLT feature grouping for hand tracking can be found here: [KLT feature grouping](https://drive.google.com/open?id=1lv1Emyia0l8JyHD9mQqpO0r9c6QwMNxu). And the results of non-KLT hand tracking are available [here](https://drive.google.com/open?id=1C7-HgxG3kH3oevbj3frFhSNHSU240x69).
+Source code and experimental results in KLT feature grouping for long-term hand tracking can be found here: [KLT feature grouping and hand tracking](https://drive.google.com/open?id=1lv1Emyia0l8JyHD9mQqpO0r9c6QwMNxu). This includes experiments in KLT feature analysis. And the results of the non-KLT hand tracking experiments are available here: [non-KLT hand tracking experiments](https://drive.google.com/open?id=1C7-HgxG3kH3oevbj3frFhSNHSU240x69).
 
 Code and experimental results of using OpenPose-based features instead of the KLT features can be found here: [OpenPose based hand features](https://drive.google.com/open?id=1TF3lOk46sn8S0e170cBY1Nk7MI6FBoYq).
 
@@ -49,7 +49,7 @@ The source code for the MHT and hand motion constraints, as well as a sample of 
 
 Material related to **Trajectory Space Factorisation**:
 
-Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (W and A matrices) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>[r|l].NNN_to_MMM.mat, where 'r' or 'l' indicates the hand of the signer, and NNN and MMM are the starting and ending video frames of the sliding window. 
+Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (generally, the trajectory matrices W and coefficient matrices A) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>[r|l].NNN_to_MMM.mat, where 'r' or 'l' indicates the hand of the signer, and NNN and MMM are the starting and ending video frames of the sliding window. 
 
 Results of applying Structure from Motion (SfM) on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
 
