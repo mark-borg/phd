@@ -59,6 +59,9 @@ Material related to **Multiple Hypothesis Tracking (MHT) and hand motion constra
 
 The source code for the MHT and hand motion constraints, as well as a sample of results, can be found here: [MHT tracking](https://drive.google.com/open?id=1-FeQk-mjvWiWfjrunPX5HcClN5G7s70T). Also included are the R notebooks used for the experiments and hyperparameter tuning.
 
+The results and code used for the evaluation of the use of hand motion constraints can be found here: [evaluation of hand motion constraints](https://drive.google.com/open?id=1-FeQk-mjvWiWfjrunPX5HcClN5G7s70T). Also included are the output annotations in EAF format (needs the ELAN tool).
+
+
 
 --------------
 
@@ -70,6 +73,13 @@ Results of applying Structure from Motion (SfM) on the synthetic signing dataset
 
 Experimental results in using the factorisation method for motion segmentation can be found here: [factorisation-based motion segmentation](https://drive.google.com/open?id=1CJodjlLMyJckCPcLojXoPHaay-0BUByR).
 
+
+--------------
+
+Material related to **Trajectory Space Subunits**:
+
+Source code for extracting the subunits from the DCT coefficients of Trajectory Space Factorisation can be found [here](https://drive.google.com/open?id=1HqsOE-9_lwZWDmY6AbBlpyVnPodZVBef).
+Also included are the results of subunit extraction for a number of videos.
 
 
 --------------
