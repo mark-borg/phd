@@ -67,7 +67,9 @@ The results and code used for the evaluation of the use of hand motion constrain
 
 Material related to **Trajectory Space Factorisation**:
 
-Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (generally, the trajectory matrices W and coefficient matrices A) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>[r|l].NNN_to_MMM.mat, where 'r' or 'l' indicates the hand of the signer, and NNN and MMM are the starting and ending video frames of the sliding window. 
+Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Our source code is making use of Akhter's MATLAB implementation of trajectory space factorisation, available from [here](). We apply some modifications to the original code (included here), in order to get the intermediate results of the factorisation algorithm.
+
+Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (generally, the trajectory matrices W and coefficient matrices A) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>[r|l].NNN_to_MMM.mat, where 'r' or 'l' indicates the hand of the signer, and NNN and MMM are the starting and ending video frames of the sliding window. 
 
 Results of applying Structure from Motion (SfM) on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
 
