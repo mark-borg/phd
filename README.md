@@ -21,24 +21,42 @@ while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-bo
 
 --------------
 
-Material related to the **body part tracking pipeline**:
+Material related to the **Body-part tracking pipeline**:
 
 Skin detection source code and results can be found here: [skin detection](https://drive.google.com/open?id=1PzurIahlbbQuw5zsjTNamhMsSd_yzECf).
 
 Frame differencing source code and results can be found here: [frame differencing](https://drive.google.com/open?id=1gF7gN3V-5aJs6wJlvFf5BFaNDqale3yk).
 
-Face detection source code and results can be found here: [Viola-Jones face detector](https://drive.google.com/open?id=13dlfWHnUAw1L3AQCERVvyy02IRoyWfbw), and [MTCNN face detector](https://drive.google.com/open?id=1rjb7mdpuZL9GAltc1t4_e-Sucw5P6QeD).
+Face detection source code and results can be found here: [Viola-Jones face detector](https://drive.google.com/open?id=13dlfWHnUAw1L3AQCERVvyy02IRoyWfbw), [MTCNN face detector](https://drive.google.com/open?id=1rjb7mdpuZL9GAltc1t4_e-Sucw5P6QeD), and [face tracking and other misc experiments](https://drive.google.com/open?id=1lzrXEhIM-3AcWgv5R5woV13kwfQcJ9OQ).
 
-KLT tracking source code and results can be found here: [KLT feature tracking](https://drive.google.com/open?id=1vN-OG0KZ1rh9f8FX_ftiPyAD_JAYYzWX).
+KLT feature tracking source code and results can be found here: [KLT feature tracking](https://drive.google.com/open?id=1vN-OG0KZ1rh9f8FX_ftiPyAD_JAYYzWX).
+
+Source code and experimental results in KLT feature grouping can be found here: [KLT feature grouping](https://drive.google.com/open?id=1lv1Emyia0l8JyHD9mQqpO0r9c6QwMNxu).
+
+Code and experimental results of using OpenPose-based features instead of the KLT features can be found here: [OpenPose based hand features](https://drive.google.com/open?id=1TF3lOk46sn8S0e170cBY1Nk7MI6FBoYq).
+
+And groundtruth related to body-part tracking is available [here](https://drive.google.com/open?id=1nlSk0A8erhJM48wXp48fjEyDB-BE1Lzf). A rudimentary tool was developed for doing basic groundtruthing. This is included in the same folder. Compared to other tools, it has serious limitations; but it sufficed for the job at hand. 
 
 
 --------------
 
-Material related to **Trajectory Space Factorisation analysis**:
+Material related to **Trajectory Space Factorisation**:
 
-Results of applying Structure from Motion on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
+Results of applying Structure from Motion (SfM) on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
+
+Experimental results in using the factorisation method for motion segmentation can be found here: [factorisation-based motion segmentation](https://drive.google.com/open?id=1CJodjlLMyJckCPcLojXoPHaay-0BUByR).
 
 
+
+--------------
+
+Material related to **Sign Recognition**:
+
+The lexicon and associated files used in the supervised training of both the HMM-based sign recognition system and the RNN-based system can be found here: [lexicon and associated labelling tools](https://drive.google.com/open?id=1DqPHf28c7MBvObsBUP1GzI7YLiNmYjnI). The ELAN tool is needed for the EAF files; this is available here: [ELAN tool](https://archive.mpi.nl/tla/elan).
+
+
+
+--------------
 
 
 
