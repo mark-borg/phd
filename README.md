@@ -11,6 +11,8 @@ The **supplementary report** accompanying the above thesis is available here: [S
 
 --------------
 
+**A Note on the Source Code and the pipeline approach**:
+
 The source code developed as part of the work for this thesis is written in various languages. 
 
 C++ is used for most of the body-part tracking algorithms, mainly skin detection, motion detection (frame differencing), KLT feature tracking, and for the MHT algorithm. C++ versions of the Boost and OpenCV libraries are used. Development was done using Windows Visual Studio. Much of the code is standard C++, but there might be a few Windows-specific parts, especially code sections dealing with the GUI (keyboard input and output). C++ is used here mainly because of its versatility, as well as execution speed. Project solutions are included with the code.
