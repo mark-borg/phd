@@ -31,7 +31,7 @@ Face detection source code and results can be found here: [Viola-Jones face dete
 
 KLT feature tracking source code and results can be found here: [KLT feature tracking](https://drive.google.com/open?id=1vN-OG0KZ1rh9f8FX_ftiPyAD_JAYYzWX).
 
-Source code and experimental results in KLT feature grouping can be found here: [KLT feature grouping](https://drive.google.com/open?id=1lv1Emyia0l8JyHD9mQqpO0r9c6QwMNxu).
+Source code and experimental results in KLT feature grouping for hand tracking can be found here: [KLT feature grouping](https://drive.google.com/open?id=1lv1Emyia0l8JyHD9mQqpO0r9c6QwMNxu). And the results of non-KLT hand tracking are available [here](https://drive.google.com/open?id=1C7-HgxG3kH3oevbj3frFhSNHSU240x69).
 
 Code and experimental results of using OpenPose-based features instead of the KLT features can be found here: [OpenPose based hand features](https://drive.google.com/open?id=1TF3lOk46sn8S0e170cBY1Nk7MI6FBoYq).
 
@@ -61,7 +61,7 @@ Experimental results in using the factorisation method for motion segmentation c
 
 Material related to **Sign Recognition**:
 
-The lexicon and associated files used in the supervised training of both the HMM-based sign recognition system and the RNN-based system can be found here: [lexicon and associated labelling tools](https://drive.google.com/open?id=1DqPHf28c7MBvObsBUP1GzI7YLiNmYjnI). The ELAN tool is needed for the EAF files; this is available here: [ELAN tool](https://archive.mpi.nl/tla/elan).
+The lexicon and associated annotation files used in the supervised training of both the HMM-based sign recognition system and the RNN-based system can be found here: [lexicon and associated annotation files](https://drive.google.com/open?id=1DqPHf28c7MBvObsBUP1GzI7YLiNmYjnI). The ELAN annotation tool is needed for the EAF files; this is available here: [ELAN tool](https://archive.mpi.nl/tla/elan).
 
 
 
