@@ -49,7 +49,7 @@ The source code for the MHT and hand motion constraints, as well as a sample of 
 
 Material related to **Trajectory Space Factorisation**:
 
-Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (W and A matrices) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>.NNNN.mat, where NNNN is the starting video frame of the sliding window.
+Source code and experimental results for Trajectory Space Factorisation can be found here: [Trajectory Space Factorisation](https://drive.google.com/open?id=1RnF44hpJO1yq1oUesLkqcp7h1LN9IPuf). Since we adopted a pipeline-based approach, the computed results of the sliding window trajectory space factorisation are saved (W and A matrices) and used as input to later components of the pipeline, including sign recognition. These are MATLAB matrices saved to disk with the filename format having a pattern <name_of_matrix>[r|l].NNN_to_MMM.mat, where 'r' or 'l' indicates the hand of the signer, and NNN and MMM are the starting and ending video frames of the sliding window. 
 
 Results of applying Structure from Motion (SfM) on the synthetic signing dataset, and the dataset itself, can be found at: [Synthetic Signing dataset](https://drive.google.com/open?id=1U0RwNAKTSnOI2ClrXZQz6ZuBXtJ773_B).
 
