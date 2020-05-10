@@ -9,6 +9,19 @@ supplementary material that were developed as part of the work for the PhD thesi
 
 The **supplementary report** accompanying the above thesis is available here: [Supplementary report](https://drive.google.com/open?id=1NUgVn98tGKCQokzE3jDwo4wKFMBiSrhO).
 
+--------------
+
+The source code developed as part of the work for this thesis is written in various languages. 
+
+C++ is used for most of the body-part tracking algorithms, mainly skin detection, motion detection (frame differencing), KLT feature tracking, and for the MHT algorithm. C++ versions of the Boost and OpenCV libraries are used. Development was done using Windows Visual Studio. Much of the code is standard C++, but there might be a few Windows-specific parts, especially code sections dealing with the GUI (keyboard input and output). C++ is used here mainly because of its versatility, as well as execution speed. Project solutions are included with the code.
+
+For the investigative and experimental parts, R and MATLAB are used. R is used for manipulating the lexicon and annotation files, as well as for some of the statistical analysis parts. R code is available in two formats: R files and R markdown files. The latter allows for combining both code and text, thus ideal for recording both the source code, description, as well as the results of an experiment. R markdown files can then be converted (weaved) to PDF, to serve as a record of an experiment. We include R markdown files and their corresponding PDFs for several of the experiments.
+
+MATLAB is used mostly for the trajectory space factorisation code and visualisation of KLT trajectories, reconstructed trajectories, as well as the DCT coefficient matrices. 
+
+Finally, Python was also used towards the end of the work on this thesis. Python is mainly used for the deep learning stuff, with Keras/TensorFlow as the deep learning framework of choice. Python is also great for combining the various components (written in other languages) into a "pipeline".
+
+A pipeline approach is adopted in much of the work done here, with light to no coupling between the components. In other words, each component is treated independently of the others, and the input and output data streams to each component are saved to disk. These are saved as either CSV files, Matlab data (matrix) files, or Python numpy arrays. Such a diverse set of formats is used to allow for flexibility during the investigations, and also since all the languages used here (R, MATLAB, and Python) provide libraries or in-built functionality to support reading/writing from these data file formats. Finally, Python can serve as the "glue" to combine all the components together into an actual pipeline.
 
 
 --------------
