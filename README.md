@@ -61,6 +61,7 @@ The source code for the MHT and hand motion constraints, as well as a sample of 
 
 The results and code used for the evaluation of the use of hand motion constraints can be found here: [evaluation of hand motion constraints](https://drive.google.com/open?id=1-FeQk-mjvWiWfjrunPX5HcClN5G7s70T). Also included are the output annotations in EAF format (needs the ELAN tool).
 
+Two versions of the MHT algorithm are available. One is written in C++ and the one used in our pipeline. This can be found in the [source code sub-folder](https://drive.google.com/open?id=1BjQzGRC2v7PQnLYdD0GiOnfak9bHGsvZ) mentioned above. We have also implemented a version in MATLAB as a protoype during the process of investigating the MHT algorithm. This is available in the following [sub-folder](https://drive.google.com/open?id=1v9iwndeOAOrm5EACFaEveY2M2Mhq-0_D). 
 
 
 --------------
