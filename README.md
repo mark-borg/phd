@@ -31,7 +31,7 @@ A pipeline approach is adopted in much of the work done here, with light to no c
 Material related to **Sign Language detection**:
 
 Source code for signing detection is available at: [github.com/mark-borg/sign-language-detection.git](https://github.com/mark-borg/sign-language-detection.git), 
-while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-borg/Signing-in-the-Wild-dataset.git](https://github.com/mark-borg/Signing-in-the-Wild-dataset.git).
+while the dataset ``Signing in the Wild'' can be found here: [github.com/mark-borg/Signing-in-the-Wild-dataset.git](https://github.com/mark-borg/Signing-in-the-Wild-dataset.git). Additional stuff on sign language detection is also available [here](https://drive.google.com/open?id=14op6lsB6Ktdbj790WW2om1I9j8Ww5iHQ).
 
 
 --------------
